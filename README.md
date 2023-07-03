@@ -1,0 +1,2 @@
+Projeto feito e executado no STS(Spring Tool Suite 4), demoonstrando a utilização do JPA/Hibernate.
+Project developed and executed in STS (Spring Tool Suite 4), demonstrating the usage of JPA/Hibernate.
